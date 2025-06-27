@@ -1,0 +1,11 @@
+[
+    {
+        "version": "1.2",
+        "sumSize": 62043,
+        "name": "Test",
+        "displayName": "Test",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "StreamingAssets/AssetBundles/Test/Android/config.json",
+        "Icon": "https://www.csharplike.com/TreasureBox/icon.png"
+    }
+]
