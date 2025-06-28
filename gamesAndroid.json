@@ -1,11 +1,11 @@
 [
     {
-        "version": "1.9.1",
+        "version": "1.0",
         "sumSize": 62031,
         "name": "Test",
         "displayName": "Test",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://saochoithan.github.io/testHotUpdate/Android/config.json",
+        "url": "https://saochoithan.github.io/testHotUpdate/Test/Android/config.json",
         "Icon": "https://www.csharplike.com/TreasureBox/icon.png"
     }
 ]
