@@ -5,7 +5,7 @@
         "name": "Test",
         "displayName": "Test",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "StreamingAssets/AssetBundles/Test/Android/config.json",
+        "url": "https://saochoithan.github.io/testHotUpdate/Android/config.json",
         "Icon": "https://www.csharplike.com/TreasureBox/icon.png"
     }
 ]
