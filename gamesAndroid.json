@@ -1,7 +1,7 @@
 [
     {
-        "version": "1.8",
-        "sumSize": 62030,
+        "version": "1.9",
+        "sumSize": 62031,
         "name": "Test",
         "displayName": "Test",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
