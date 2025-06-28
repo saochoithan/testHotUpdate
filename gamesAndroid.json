@@ -1,5 +1,14 @@
 [
     {
+        "version": "2025.3",
+        "sumSize": 21367104,
+        "name": "Tank",
+        "displayName": "Tank",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://www.csharplike.com/TreasureBoxFree/AssetBundles/Tank/Android/config.json",
+        "Icon": "https://www.csharplike.com/TreasureBoxFree/Tank.png"
+    },
+    {
         "version": "1.1",
         "sumSize": 62031,
         "name": "Test",
