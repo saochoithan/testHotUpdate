@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2728273084
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: code.ab
+      Dependencies: {}
+    Info_1:
+      Name: level1.ab
+      Dependencies: {}

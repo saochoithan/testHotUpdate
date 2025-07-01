@@ -1,5 +1,14 @@
 [
     {
+        "version": "1.0",
+        "sumSize": 841757,
+        "name": "Level_1",
+        "displayName": "Level_1",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://saochoithan.github.io/testHotUpdate/Level_1/Android/config.json",
+        "Icon": "https://www.csharplike.com/TreasureBox/icon.png"
+    },
+    {
         "version": "1.3",
         "sumSize": 500039,
         "name": "Level_34",
