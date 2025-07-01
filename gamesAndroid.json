@@ -7,14 +7,5 @@
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
         "url": "https://saochoithan.github.io/testHotUpdate/Level_34/Android/config.json",
         "Icon": "https://www.csharplike.com/TreasureBox/icon.png"
-    },
-    {
-        "version": "2025.3",
-        "sumSize": 21367099,
-        "name": "Tank",
-        "displayName": "Tank",
-        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://www.csharplike.com/TreasureBoxFree/AssetBundles/Tank/Android/config.json",
-        "Icon": "https://www.csharplike.com/TreasureBoxFree/Tank.png"
     }
 ]
