@@ -1,11 +1,20 @@
 [
     {
         "version": "1.2",
-        "sumSize": 500039,
+        "sumSize": 500038,
         "name": "Level_34",
         "displayName": "Level_34",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "StreamingAssets/AssetBundles/Level_34/Android/config.json",
+        "url": "https://github.com/saochoithan/testHotUpdate/Level_34/Android/config.json",
         "Icon": "https://www.csharplike.com/TreasureBox/icon.png"
+    },
+    {
+        "version": "2025.3",
+        "sumSize": 21367099,
+        "name": "Tank",
+        "displayName": "Tank",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://www.csharplike.com/TreasureBoxFree/AssetBundles/Tank/Android/config.json",
+        "Icon": "https://www.csharplike.com/TreasureBoxFree/Tank.png"
     }
 ]
